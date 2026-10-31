@@ -1,13 +1,14 @@
 # Hi, I'm Giusy 👋
 
-**PhD researcher at ETH Zurich** ([Institute for Integrated Systems](https://iis.ee.ethz.ch/), Prof. Luca Benini).
+**PhD researcher at ETH Zurich** ([Integrated System Laboratory](https://iis.ee.ethz.ch/), Prof. Luca Benini).
 I design **wearable, multimodal neuromotor interfaces**, focusing on efficient algorithms that run on the device and on user-centred applications.
 
 [![Website](https://img.shields.io/badge/Website-gspacone.github.io-2a9977?style=flat-square)](https://gspacone.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-1e2235?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dGE8uMEAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giusy--spacone-1e2235?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giusy-spacone)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5194--9770-1e2235?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5194-9770)
-[![Email](https://img.shields.io/badge/Email-gspacone%40iis.ee.ethz.ch-1e2235?style=flat-square&logo=maildotru&logoColor=white)](mailto:gspacone@iis.ee.ethz.ch)
+[![Work email](https://img.shields.io/badge/Work-gspacone%40iis.ee.ethz.ch-1e2235?style=flat-square&logo=maildotru&logoColor=white)](mailto:gspacone@iis.ee.ethz.ch)
+[![Personal email](https://img.shields.io/badge/Personal-giusyspacone%40gmail.com-1e2235?style=flat-square&logo=gmail&logoColor=white)](mailto:giusyspacone@gmail.com)
 
 ---
 
