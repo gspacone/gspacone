@@ -8,7 +8,6 @@ I design **wearable, multimodal neuromotor interfaces**, focusing on efficient a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giusy--spacone-1e2235?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giusy-spacone)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5194--9770-1e2235?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5194-9770)
 [![Work email](https://img.shields.io/badge/Work-gspacone%40iis.ee.ethz.ch-1e2235?style=flat-square&logo=maildotru&logoColor=white)](mailto:gspacone@iis.ee.ethz.ch)
-[![Personal email](https://img.shields.io/badge/Personal-giusyspacone%40gmail.com-1e2235?style=flat-square&logo=gmail&logoColor=white)](mailto:giusyspacone@gmail.com)
 
 ---
 
