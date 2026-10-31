@@ -13,22 +13,18 @@ I design **wearable, multimodal neuromotor interfaces**, focusing on efficient a
 
 ### 🔬 What I work on
 
-- **Wearable hand & arm tracking** — A-mode ultrasound, sEMG and IMU fusion for gesture recognition and continuous hand/wrist kinematics, in real time on a microcontroller. *Best Conference Paper Award, IEEE SMC 2026.*
+- **Wearable hand & arm tracking** — A-mode ultrasound, sEMG and IMU fusion for gesture recognition and continuous hand/wrist kinematics, in real time on a microcontroller.
 - **Silent-speech interfaces** — SilentWear, the first fully wearable sEMG neckband for silent-speech recognition (< 25 mW).
 - **Foundation models for the edge** — TinyMyo, the first transformer-based sEMG foundation model designed to run on wearables.
 - **Wireless body-area networks** — distributed EMG, ultrasound and IMU sensing nodes coordinated by a central unit.
 
 ### 🧩 Open-source work
 
-| Project | What it is | My role |
-|---|---|---|
-| [**SilentWear**](https://github.com/pulp-bio/SilentWear) | Wearable sEMG silent-speech system: code, models and [dataset](https://huggingface.co/datasets/PulpBio/SilentWear) | Project lead |
-| [**BioFoundation**](https://github.com/pulp-bio/BioFoundation) | Biosignal foundation models, including TinyMyo | Co-author (TinyMyo) |
-| [**BioGAP**](https://github.com/pulp-bio/BioGAP) | BioGAP-Ultra, modular edge-AI platform for wearable biosignals | Co-author |
+- [**SilentWear**](https://github.com/pulp-bio/SilentWear) — wearable sEMG silent-speech system: code, models and [dataset](https://huggingface.co/datasets/PulpBio/SilentWear). *Project lead.*
 
 ### 📄 Selected publications
 
-- **A Wearable Multimodal Ultrasound + Inertial System for Real-Time Virtual Reality Interaction** — IEEE SMC 2026 · 🏆 Best Conference Paper · [open access](https://arxiv.org/abs/2606.17741)
+- **A Wearable Multimodal Ultrasound + Inertial System for Real-Time Virtual Reality Interaction** — IEEE SMC 2026 · [open access](https://arxiv.org/abs/2606.17741)
 - **SilentWear: An Ultra-Low-Power Wearable System for EMG-based Silent Speech Recognition** — IEEE Sensors Journal 2026 · [IEEE](https://doi.org/10.1109/jsen.2026.3742328) · [open access](https://arxiv.org/abs/2603.02847)
 - **TinyMyo: A Tiny Foundation Model for Flexible EMG Signal Processing at the Edge** — IEEE TBME 2026 · [IEEE](https://ieeexplore.ieee.org/document/11701516) · [open access](https://arxiv.org/abs/2512.15729)
 - **Toward Whole Hand and Wrist Kinematic Tracking with a Wearable A-mode Ultrasound Probe** — IEEE OJ-UFFC 2026 · [IEEE](https://ieeexplore.ieee.org/document/11666997/) · [open access](https://arxiv.org/abs/2606.22333)
