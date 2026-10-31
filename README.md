@@ -13,14 +13,11 @@ I design **wearable, multimodal neuromotor interfaces**, focusing on efficient a
 
 ### 🔬 What I work on
 
-- **Wearable hand & arm tracking** — A-mode ultrasound, sEMG and IMU fusion for gesture recognition and continuous hand/wrist kinematics, in real time on a microcontroller.
-- **Silent-speech interfaces** — SilentWear, the first fully wearable sEMG neckband for silent-speech recognition (< 25 mW).
-- **Foundation models for the edge** — TinyMyo, the first transformer-based sEMG foundation model designed to run on wearables.
-- **Wireless body-area networks** — distributed EMG, ultrasound and IMU sensing nodes coordinated by a central unit.
+- **Wearable hand & arm tracking** — A-mode ultrasound, sEMG and IMU fusion for gesture recognition and continuous hand/wrist kinematics at the edge.
+- **Silent-speech interfaces** — developed [SilentWear](https://github.com/pulp-bio/SilentWear), the first fully wearable sEMG neckband for silent-speech recognition (< 25 mW), with open code, models and [dataset](https://huggingface.co/datasets/PulpBio/SilentWear).
+- **Foundation models for the edge** 
+- **Wireless body-area networks** 
 
-### 🧩 Open-source work
-
-- [**SilentWear**](https://github.com/pulp-bio/SilentWear) — wearable sEMG silent-speech system: code, models and [dataset](https://huggingface.co/datasets/PulpBio/SilentWear). *Project lead.*
 
 ### 📄 Selected publications
 
